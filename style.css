@@ -1,0 +1,56 @@
+header {
+    height: 100px;
+}
+.logo {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+nav {
+    margin: auto;
+    width: 400px;
+}
+.menu {
+    background-color: #fff;
+    font-size: 25px;
+    margin-top: -70px;
+}
+.menu a{
+    color: black;
+    text-align: center;
+    padding: 10px 16px;
+    font-size: 26px;
+}
+.menu a:hover{
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+.tel {
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+.nomer {
+    font-size: 26px;
+    font-weight: 600;
+}
+.name {
+    font-size: 20px;
+}
+.telo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.podval {
+    width: 100%;
+    padding: 15px;
+    background: url(img/fon.jpg) bottom;
+    color: white;
+    text-align: center;
+}
+.socseti {
+    text-align: center;
+}
